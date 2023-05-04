@@ -1,1 +1,1 @@
-# symphony-gpt# promptprove
+# promptprove
