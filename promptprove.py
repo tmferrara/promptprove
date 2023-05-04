@@ -1,7 +1,7 @@
 import streamlit as st
 from langchain import PromptTemplate
 from langchain.llms import OpenAI
-import template from hiddenprompts
+from hiddenprompts import template
 
 
 prompt = PromptTemplate(
